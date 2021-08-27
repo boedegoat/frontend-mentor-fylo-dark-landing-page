@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .wrapper {
+    @apply w-5/6 mx-auto;
+  }
+
+  .section {
+    @apply text-gray-300 pt-40;
+  }
+
+  .section * p {
+    @apply text-sm;
+  }
+}
