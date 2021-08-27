@@ -14,6 +14,17 @@
   .section * p {
     @apply text-sm sm:text-base;
   }
+
+  .accent-btn {
+    @apply font-header font-semibold 
+    rounded-3xl
+    py-3
+    bg-gradient-to-r
+    from-accent-cyan
+    to-accent-blue
+    hover:to-accent-cyan 
+    text-white text-sm;
+  }
 }
 
 @layer utilities {
