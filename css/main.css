@@ -12,6 +12,13 @@
   }
 
   .section * p {
-    @apply text-sm;
+    @apply text-sm sm:text-base;
+  }
+}
+
+@layer utilities {
+  .-translate-y-2xfull {
+    --tw-translate-y: -31.25rem;
+    transform: var(--tw-transform);
   }
 }
