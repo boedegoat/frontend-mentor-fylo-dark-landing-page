@@ -184,7 +184,13 @@
           happy to help you.
         </p>
         <form class="flex items-stretch justify-center flex-col sm:flex-row sm:space-x-4">
-          <input type="text" placeholder="email@example.com" class="mt-6 w-full px-6 py-3 rounded-3xl focus:outline-none text-sm sm:flex-[70%]" />
+          <div class="mt-6 sm:flex-[70%]">
+            <input type="email" placeholder="email@example.com" class="peer w-full px-6 py-3 rounded-3xl focus:outline-none text-sm" />
+            <small
+              class="text-error font-bold text-xs hidden peer-invalid:block mt-4 sm:mt-0 sm:absolute sm:transform sm:translate-x-5 sm:translate-y-2"
+              >Please enter a valid email address</small
+            >
+          </div>
           <button class="accent-btn w-full mt-5 sm:flex-[30%]" type="submit">Get Started For Free</button>
         </form>
       </div>
