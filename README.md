@@ -6,6 +6,7 @@ This is a solution to the [Fylo dark theme landing page challenge on Frontend Me
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
+  - [Screenshots](#screenshots)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -19,6 +20,11 @@ Users should be able to:
 
 - View the optimal layout for the site depending on their device's screen size
 - See hover states for all interactive elements on the page
+
+### Screenshots
+
+- [desktop-screenshot](https://user-images.githubusercontent.com/79205710/131221216-88b90bd6-8aa8-4716-bf1b-c7872c9e1462.png)
+- [mobile-screenshot](https://user-images.githubusercontent.com/79205710/131221276-3ab7388b-9ee2-4deb-a56e-dfdbf5ac7778.png)
 
 ### Links
 
@@ -36,6 +42,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- [Linkedin](https://www.linkedin.com/in/bhremada-fevreano-590996202/)
+- Frontend Mentor - [@boedegoat](https://www.frontendmentor.io/profile/boedegoat)
